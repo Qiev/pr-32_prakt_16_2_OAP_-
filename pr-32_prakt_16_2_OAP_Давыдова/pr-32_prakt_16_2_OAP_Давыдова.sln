@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pr-32_prakt_16_2_OAP_Давыдова", "pr-32_prakt_16_2_OAP_Давыдова\pr-32_prakt_16_2_OAP_Давыдова.csproj", "{D11010E8-C90C-4845-A1F5-3D8452DD2BF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D11010E8-C90C-4845-A1F5-3D8452DD2BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11010E8-C90C-4845-A1F5-3D8452DD2BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11010E8-C90C-4845-A1F5-3D8452DD2BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11010E8-C90C-4845-A1F5-3D8452DD2BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A404C1A-C36B-443D-B607-5B75D8ACDCD0}
+	EndGlobalSection
+EndGlobal
